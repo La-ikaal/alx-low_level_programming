@@ -1,8 +1,10 @@
 #include<stdio.h>
 #include <string.h>
 
+/**
+ * entry point of the code
+ */
 int main(void)    
-	/* entry point */
  {
 	char str1[] = "\"Programming is like building a multilingual puzzle";
 
