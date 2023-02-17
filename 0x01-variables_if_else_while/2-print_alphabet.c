@@ -15,7 +15,6 @@ int main(void)
 	for (i = 0; i <= 26; i++)
 	{
 		putchar(cptr[i]);
-		i++;
 	}
 	return (0);
 }
