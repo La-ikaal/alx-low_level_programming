@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <sring.h>
+#include <string.h>
 
 /**
  * main - Entry point
@@ -9,10 +9,11 @@
 int main(void)
 {
 	char letter;
-	for (letter = 'a'; letter <= 'z'; letter++)
+
+	for (letter = 'a' ; letter <= 'z' ; letter++)
 		putchar(letter);
-	for (letter = 'a'; letter <= 'Z'; letter++
-		putchar(lette);
-		putchar('\n');
-		return (0);
+	for (letter = 'A' ; letter <= 'Z' ; letter++)
+		putchar(letter);
+	return (0);
+
 }
