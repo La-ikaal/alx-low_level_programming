@@ -8,13 +8,12 @@
  */
 int main(void)
 {
-	char a[26] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
-	char *cptr = a;
-	int i;
+	char letter;
 
-	for (i = 0; i <= 26; i++)
+	for (letter = 'a'; letter <= 'z'; letter++)		
 	{
-		putchar(cptr[i]);
+        putchar(letter);
+	putchar('\n');
 	}
 	return (0);
 }
