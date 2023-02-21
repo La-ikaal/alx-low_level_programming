@@ -3,7 +3,7 @@
 /**
  *_islower - check the code.for lowercase characters
  *
- * Return: Always 0 or 1
+ * Return: if c is lowercase it returns 0 or 1
  */
 int _islower(int c)
 {
