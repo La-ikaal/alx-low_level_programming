@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * _isalpha : checkif the number is an alphabet
- *
- * Return: eturns 1 if alphabet and 0 if not alphabet
- *
+ * _isalpha : check for alphabetic character
+ * Return: returns 1 if alphabet and 0 if not alphabet
  * @c : the number passed to _isalpha function
  */
 int _isalpha(int c)
