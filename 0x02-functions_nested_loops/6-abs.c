@@ -3,7 +3,7 @@
 /**
  * _abs - computes absolute value of an integer
  * @n : integer passed to _abs function
- * Return : returns integer value
+ * Return : absolute value of a number or zero
  */
 
 int _abs(int n)
