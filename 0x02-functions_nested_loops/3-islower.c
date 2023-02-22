@@ -4,6 +4,8 @@
  *_islower - check the code.for lowercase characters
  *
  * Return: if c is lowercase it returns 0 or 1
+ *
+ * c : parameter for _islower
  */
 int _islower(int c)
 {
