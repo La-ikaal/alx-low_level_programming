@@ -5,7 +5,7 @@
  *
  * Return: if c is lowercase it returns 0 or 1
  *
- * c : parameter for _islower
+ * @c : Number to pass to _islower function
  */
 int _islower(int c)
 {
