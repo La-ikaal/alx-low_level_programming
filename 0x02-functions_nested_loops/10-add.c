@@ -7,9 +7,9 @@
  * @c: second integer
  * Return: returns a
  */
-int add(int , int )
+int add(int b , int c)
 {
-	int a, b, c;
+	int a;
 
 	a = b + c;
 	return (a);
