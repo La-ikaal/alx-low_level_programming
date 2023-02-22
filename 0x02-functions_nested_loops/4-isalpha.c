@@ -2,8 +2,8 @@
 
 /**
  * _isalpha : check for alphabetic character
+ *@c : the number passed to _isalpha function
  * Return: returns 1 if alphabet and 0 if not alphabet
- * @c : the number passed to _isalpha function
  */
 int _isalpha(int c)
 {
