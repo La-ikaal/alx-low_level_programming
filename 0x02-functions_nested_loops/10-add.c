@@ -7,7 +7,7 @@
  * @c: second integer
  * Return: returns a
  */
-int add(int b , int c)
+int add(int b,int c)
 {
 	int a;
 
