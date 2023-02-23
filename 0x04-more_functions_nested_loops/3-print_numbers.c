@@ -2,10 +2,11 @@
 #include <stdio.h>
 
 /**
- * print_numbers: prints numbers from 0 to 9
- * @n - number between 0 and 9
- * Return: no value returned
- */
+  * print_numbers - Print the numbers since 0 up to 9
+  *
+  * Return: The numbers since 0 up to 9
+  */
+
 void print_numbers(void)
 {
 	int n;
