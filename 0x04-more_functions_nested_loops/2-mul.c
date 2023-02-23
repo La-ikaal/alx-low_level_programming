@@ -3,12 +3,12 @@
 #include <math.h>
 
 /**
- * mul - multiplies two integers
- * @x: first integer
- * @y: second integer
- * @z: the product of two integers
- * Return: returns an integer value z
- */
+  * mul - Multiplies two integers
+  * @x: The first number to multiply
+  * @y: The second number to multiply with first number
+  *
+  * Return: The result of multiplication between x param and y param
+  */
 
 int mul(int x, int y)
 {
