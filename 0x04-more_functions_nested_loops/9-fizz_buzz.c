@@ -8,11 +8,13 @@
   */
 int main(void)
 {
-	int n;
+	int x;
 
-	for (n = 0; n <= 100 ; n++)
+	for (x = 0; x <= 100 ; x++)
 	{
-		printf("FizzBuzz");
+		if ((x % 3 == 0) && (x % 5 == 0))
+		{
+			printf("FizzBuzz");
 		}
 		else if (x % 3 == 0)
 		{
@@ -37,3 +39,4 @@ int main(void)
 
 	return (0);
 }
+
