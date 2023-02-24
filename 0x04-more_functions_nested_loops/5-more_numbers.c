@@ -21,8 +21,8 @@ void more_numbers(void)
 			a++;
 
 		}
-	putchar('\n');
 	b++;
-	a = 0;
+	putchar('\n');
+	a=0;
 	}
 }
