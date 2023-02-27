@@ -11,10 +11,9 @@ void print_rev(char *s)
 {       
 	int i = 0;;
 
-	while (*s != '\0')
+	while (s[i]!= '\0')
 	{
-		putchar(*s);
-		s++;
+		i++;
 
 	}
 	for (i -= 1; i >= 0; i--)
