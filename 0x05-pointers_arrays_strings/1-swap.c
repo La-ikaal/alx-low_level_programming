@@ -3,7 +3,8 @@
 
 /**
  * swap_int -swaps value of two integers
- * @a & @b : two integers to be swapped
+ * @a: holds value of the first integer to be swapped
+ * @b: holds value of second integer to be swapped
  * Return: always 0
  */
 
