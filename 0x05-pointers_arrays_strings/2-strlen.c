@@ -3,7 +3,7 @@
 
 /**
  * _strlen - function that returns length of a string
- * @s -string who's length is returned
+ * @s -pointer to the memory location of the string
  * Return: returns length of string
  */
 
